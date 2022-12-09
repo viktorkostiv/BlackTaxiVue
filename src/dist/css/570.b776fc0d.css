@@ -1,1 +1,0 @@
-.faq-item-enter-active[data-v-9f7edada]{animation:faqItem-9f7edada .4s ease}.faq-item-leave-active[data-v-9f7edada]{animation:faqItem-9f7edada .4s ease reverse}.faq-move[data-v-9f7edada]{transition:all .4s ease}@keyframes faqItem-9f7edada{0%{top:-100px;opacity:0}10%{opacity:0}to{opacity:1;top:0}}
