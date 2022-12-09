@@ -1,0 +1,26 @@
+.page.header {
+    padding: 1vw 0 0vw;
+}
+
+.page .nav {
+    margin: 0.9vw 0 0;
+}
+
+.page .header-bottom {
+    margin-top: 50px;
+    height: 105px;
+    background: #323232;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    z-index: 2;
+    position: relative;
+}
+
+.page.main-section {
+    background: url(../img/romb.svg);
+    padding: 0 20px;
+}
+
+.page.main-section .container {
+    background: #323232;
+    padding: 0;
+}
